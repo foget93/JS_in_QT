@@ -1,0 +1,5 @@
+/.qtc_clangd
+49_test_JS
+Makefile
+*.o
+*.pro.user
